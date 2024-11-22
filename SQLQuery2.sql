@@ -1,0 +1,1 @@
+﻿UPDATE Resposta_NPC SET Capitulo = 'tutorial' WHERE Capitulo = NULL

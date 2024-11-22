@@ -1,0 +1,27 @@
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.csproj.AssemblyReference.cache
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.Salaroll.resources
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\Jogo1.mdf
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\Jogo1_log.ldf
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\Banco de Dados.mdf
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\Banco de Dados_log.ldf
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Salaroll.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.pdb

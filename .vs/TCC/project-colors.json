@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ea94d85-f434-4693-a2cc-bb954f98b81f": {
+      "ProjectGuid": "4ea94d85-f434-4693-a2cc-bb954f98b81f",
+      "DisplayName": "TCC",
+      "ColorIndex": 0
+    },
+    "8f974db6-c3aa-4e1d-b3bb-8a5eb277a1f5": {
+      "ProjectGuid": "8f974db6-c3aa-4e1d-b3bb-8a5eb277a1f5",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

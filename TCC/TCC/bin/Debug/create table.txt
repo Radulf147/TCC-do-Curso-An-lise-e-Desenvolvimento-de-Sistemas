@@ -1,0 +1,35 @@
+Dialogo
+CREATE TABLE [dbo].[Dialogo] (
+    [ID_Falas]   INT           NOT NULL,
+    [Personagem] VARCHAR (50)  NOT NULL,
+    [Capitulos]  INT           NOT NULL,
+    [Cenas]      INT           NOT NULL,
+    [Num_Fala]   INT           NOT NULL,
+    [Falas]      VARCHAR (MAX) NOT NULL,
+    PRIMARY KEY CLUSTERED ([ID_Falas] ASC)
+);
+
+Resposta
+CREATE TABLE [dbo].[Resposta] (
+    [ID_Resposta]        NCHAR (10)    NOT NULL,
+    [Resposta_Escolhida] VARCHAR (MAX) NOT NULL,
+    [Nomes]              VARCHAR (50)  NOT NULL,
+    [Qualidade_Resposta] NCHAR (10)    NOT NULL,
+    PRIMARY KEY CLUSTERED ([ID_Resposta] ASC)
+);
+
+Usuario
+CREATE TABLE [dbo].[Usuario]
+(
+	[CPF] INT NOT NULL PRIMARY KEY, 
+    [Nome] VARBINARY(20) NOT NULL, 
+    [Senha] NCHAR(20) NOT NULL
+)
+Personagem
+CREATE TABLE [dbo].[Personagem]
+(
+	[Id_Personagem] INT NOT NULL PRIMARY KEY, 
+    [Nome_Usuario] VARCHAR(50) NOT NULL, 
+    [Nome_Personagem] VARCHAR(50) NOT NULL
+)
+

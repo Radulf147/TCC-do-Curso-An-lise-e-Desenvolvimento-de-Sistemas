@@ -1,0 +1,59 @@
+CREATE TABLE [dbo].[Usuario] (
+    [CPF]   NCHAR (11)   NOT NULL,
+    [Nome]  VARCHAR (20) NOT NULL,
+    [Senha] VARCHAR (20) NOT NULL,
+    PRIMARY KEY CLUSTERED ([CPF] ASC)
+);
+
+CREATE TABLE [dbo].[Resposta_Alternativa] (
+    [Id_Resposta]        INT           NOT NULL,
+    [Quadro]             INT           NULL,
+    [Nome]               VARCHAR (50)  NULL,
+    [Falas]              TEXT          NULL,
+    [Qualidade_Resposta] VARCHAR (7)   NULL,
+    [Capitulo]           VARCHAR (MAX) NULL,
+    PRIMARY KEY CLUSTERED ([Id_Resposta] ASC)
+);
+
+CREATE TABLE [dbo].[Personagem] (
+    [Id_Personagem] INT          IDENTITY (1, 1) NOT NULL,
+    [CPF_Usuario]   NCHAR (11)   NOT NULL,
+    [Nome]          VARCHAR (50) NOT NULL,
+    [Cabelo]        VARCHAR (10) NULL,
+    [Blusa]         VARCHAR (10) NULL,
+    [Calca]         VARCHAR (10) NULL,
+    [Pele]          VARCHAR (10) NULL,
+    [Idade]         VARCHAR (10) NULL,
+    [Sexo]          VARCHAR (10) NULL,
+    PRIMARY KEY CLUSTERED ([Id_Personagem] ASC),
+    CONSTRAINT [FK_CPF] FOREIGN KEY ([CPF_Usuario]) REFERENCES [dbo].[Usuario] ([CPF]) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+CREATE TABLE [dbo].[Dialogo] (
+    [ID_Falas]   INT           NOT NULL,
+    [Personagem] VARCHAR (50)  NOT NULL,
+    [Capitulos]  VARCHAR (8)   NOT NULL,
+    [Num_Fala]   INT           NULL,
+    [Falas]      VARCHAR (MAX) NULL,
+    [Quadro]     INT           NOT NULL,
+    PRIMARY KEY CLUSTERED ([ID_Falas] ASC)
+);
+
+CREATE TABLE [dbo].[Alternativa_Escolhida] (
+    [ID_Resposta]              INT           IDENTITY (1, 1) NOT NULL,
+    [Resposta_Escolhida_Texto] VARCHAR (MAX) NOT NULL,
+    [Nomes]                    VARCHAR (50)  NOT NULL,
+    [Qualidade_Resposta]       VARCHAR (10)  NOT NULL,
+    [Capitulo]                 VARCHAR (10)  NULL,
+    [Quadro]                   INT           NULL,
+    PRIMARY KEY CLUSTERED ([ID_Resposta] ASC)
+);
+
+CREATE TABLE [dbo].[Alternativa] (
+    [Id_Alternativa]        INT          NOT NULL,
+    [Texto]                 TEXT         NULL,
+    [Quadro]                INT          NULL,
+    [Qualidade_Alternativa] VARCHAR (7)  NULL,
+    [Capitulo]              VARCHAR (10) NULL
+);
+

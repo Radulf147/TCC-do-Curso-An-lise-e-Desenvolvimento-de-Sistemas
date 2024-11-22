@@ -1,0 +1,1 @@
+﻿SELECT * FROM Alternativa WHERE Quadro = 11 AND Capitulo = '1'

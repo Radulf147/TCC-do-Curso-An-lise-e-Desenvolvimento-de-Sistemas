@@ -1,0 +1,140 @@
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.csproj.AssemblyReference.cache
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\Banco de Dados.mdf
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\Banco de Dados_log.ldf
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\Banco de Dados.mdf
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\Banco de Dados_log.ldf
+C:\Users\raulz\Documents\TCC\TCC\TCC\bin\Debug\System.dll
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.Tela_De_Login.resources
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.Tela_de_Cadastro.resources
+C:\Users\raulz\Documents\TCC\TCC\TCC\obj\Debug\TCC.Tela_Principal.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\bin\Debug\System.dll
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csproj.AssemblyReference.cache
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csproj.SuggestedBindingRedirects.cache
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Tela_de_Cadastro.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Tela_De_Login.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Tela_Principal.resources
+C:\Users\labsc3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\bin\Debug\Banco de Dados.mdf
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\bin\Debug\Banco de Dados_log.ldf
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Tela_de_Cadastro.resources
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Tela_De_Login.resources
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Tela_Principal.resources
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\labsc3.LABSC3\Desktop\TCC\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\bin\Debug\Banco de Dados.mdf
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\bin\Debug\Banco de Dados_log.ldf
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.Tela_de_Cadastro.resources
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.Tela_De_Login.resources
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.Tela_Principal.resources
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\labsc3\Downloads\TCC\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\raulz\Documents\TCC\TCC\bin\Debug\Banco de Dados.mdf
+C:\Users\raulz\Documents\TCC\TCC\bin\Debug\Banco de Dados_log.ldf
+C:\Users\raulz\Documents\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\raulz\Documents\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\raulz\Documents\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\raulz\Documents\TCC\TCC\bin\Debug\System.dll
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.csproj.AssemblyReference.cache
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.Tela_de_Cadastro.resources
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.Tela_De_Login.resources
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.Tela_Principal.resources
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.Jogo.resources
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.Jogo.resources
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.Tela_de_Cadastro.resources
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.Tela_De_Login.resources
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.Tela_Principal.resources
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\labsc3\Downloads\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\labsc3\Downloads\TCC\TCC\bin\Debug\Banco de Dados.mdf
+C:\Users\labsc3\Downloads\TCC\TCC\bin\Debug\Banco de Dados_log.ldf
+C:\Users\labsc3\Downloads\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\labsc3\Downloads\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\labsc3\Downloads\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\raulz\Documents\TCC\TCC\obj\Debug\TCC.Criar_Personagem.resources
+C:\Users\labsc3\Desktop\TCC\TCC\bin\Debug\Banco de Dados.mdf
+C:\Users\labsc3\Desktop\TCC\TCC\bin\Debug\Banco de Dados_log.ldf
+C:\Users\labsc3\Desktop\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\labsc3\Desktop\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\labsc3\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.Criar_Personagem.resources
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.Jogo.resources
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.Tela_de_Cadastro.resources
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.Tela_De_Login.resources
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.Tela_Principal.resources
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\labsc3\Desktop\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\raulz\Desktop\TCC\TCC\bin\Debug\Banco de Dados.mdf
+C:\Users\raulz\Desktop\TCC\TCC\bin\Debug\Banco de Dados_log.ldf
+C:\Users\raulz\Desktop\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\raulz\Desktop\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\raulz\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\raulz\Desktop\TCC\TCC\bin\Debug\System.dll
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.csproj.AssemblyReference.cache
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.Criar_Personagem.resources
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.Jogo.resources
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.Tela_de_Cadastro.resources
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.Tela_De_Login.resources
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.Tela_Principal.resources
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.Tutorial.resources
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.cache
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.csproj.CoreCompileInputs.cache
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.csproj.CopyComplete
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\raulz\Desktop\TCC\TCC\obj\Debug\TCC.pdb

@@ -1,0 +1,8 @@
+INSERT INTO [dbo].[Alternativa] ([Id_Alternativa], [Texto], [Quadro], [Qualidade_Alternativa], [Capitulo]) VALUES (1, N'É que eu...eu queria saber se você quer tomar um sorvete, conversar, jogar conversa fora?', 11, N'boa', N'tutorial')
+INSERT INTO [dbo].[Alternativa] ([Id_Alternativa], [Texto], [Quadro], [Qualidade_Alternativa], [Capitulo]) VALUES (2, N'Acho que ele tava te zoando, eu não quero falar com você não.', 11, N'ruim-1', N'tutorial')
+INSERT INTO [dbo].[Alternativa] ([Id_Alternativa], [Texto], [Quadro], [Qualidade_Alternativa], [Capitulo]) VALUES (3, N'Se tá maluca, eu nunca falei que queria falar com você!', 11, N'ruim-2', N'tutorial')
+INSERT INTO [dbo].[Alternativa] ([Id_Alternativa], [Texto], [Quadro], [Qualidade_Alternativa], [Capitulo]) VALUES (4, N'Queria sim,  mas acabei de lembrar que deixei a panela no fogo, preciso correr rápido pra casa!', 11, N'neutra', N'tutorial')
+INSERT INTO [dbo].[Alternativa] ([Id_Alternativa], [Texto], [Quadro], [Qualidade_Alternativa], [Capitulo]) VALUES (5, N'Tacar a bolinha com força', 11, N'boa', N'1')
+INSERT INTO [dbo].[Alternativa] ([Id_Alternativa], [Texto], [Quadro], [Qualidade_Alternativa], [Capitulo]) VALUES (6, N'Tacar a bolinha com pouca força', 11, N'ruim-1', N'1')
+INSERT INTO [dbo].[Alternativa] ([Id_Alternativa], [Texto], [Quadro], [Qualidade_Alternativa], [Capitulo]) VALUES (7, N'Tacar a boliinha com mais ou menos de força', 11, N'ruim-2', N'1')
+INSERT INTO [dbo].[Alternativa] ([Id_Alternativa], [Texto], [Quadro], [Qualidade_Alternativa], [Capitulo]) VALUES (8, N'Tacar a boliinha com muita força', 11, N'neutra', N'1')

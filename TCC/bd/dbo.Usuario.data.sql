@@ -1,0 +1,6 @@
+INSERT INTO [dbo].[Usuario] ([CPF], [Nome], [Senha]) VALUES (N'12345678998', N'Larissa', N'1234')
+INSERT INTO [dbo].[Usuario] ([CPF], [Nome], [Senha]) VALUES (N'17795703763', N'Raul', N'1234')
+INSERT INTO [dbo].[Usuario] ([CPF], [Nome], [Senha]) VALUES (N'17795703764', N'Cris', N'123')
+INSERT INTO [dbo].[Usuario] ([CPF], [Nome], [Senha]) VALUES (N'62710777903', N'Eric', N'1234')
+INSERT INTO [dbo].[Usuario] ([CPF], [Nome], [Senha]) VALUES (N'77777777777', N'pedro', N'123')
+INSERT INTO [dbo].[Usuario] ([CPF], [Nome], [Senha]) VALUES (N'98765432178', N'Isabela', N'1234')
